@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Casual_Playground/Casual_Playground.iml" filepath="$PROJECT_DIR$/../Casual_Playground/Casual_Playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Durga_Sir_CoreJava.iml" filepath="$PROJECT_DIR$/Durga_Sir_CoreJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Interview_Java_Questions/Interview_Java_Questions.iml" filepath="$PROJECT_DIR$/../Interview_Java_Questions/Interview_Java_Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Multi_Threading_Java/Multi_Threading_Java.iml" filepath="$PROJECT_DIR$/../Multi_Threading_Java/Multi_Threading_Java.iml" />
+    </modules>
+  </component>
+</project>
